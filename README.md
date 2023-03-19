@@ -4,3 +4,4 @@ Tab 1 - Current Technology Usage,
 Tab 2 - Future Technology Trend,
 Tab 3 - Demographics.
 The screenshoots have been uploaded to my publicly available GitHub repository in order to circumvent the problem with my cancelled IBM Data Cloud Pak account, and allow access for peers to review my assignment. 
+A PDF file with all three dashboard tabs exported from IBM Cognos Analytics is available for review as well.
